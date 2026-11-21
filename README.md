@@ -25,7 +25,6 @@ ad-analytics-clickhouse/
 │   └── report.md                     # Решения и результаты
 ├── compose.yaml                      # Отдельный ClickHouse для проекта
 ├── .env.example                      # Пример локальных настроек
-├── .gitignore
 └── README.md
 ```
 
